@@ -1,0 +1,6 @@
+**/data/
+**/reports/
+**/*.joblib
+**/*.duckdb
+**/*.zip
+.env
